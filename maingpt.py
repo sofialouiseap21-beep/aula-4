@@ -1,9 +1,12 @@
 import streamlit as st
 from openai import OpenAI
+import os
+from dotenv import load_dotenv
 
-# --- API key direta (provisório) ---
-# Substitua "SUA_CHAVE_AQUI" pela sua chave real da OpenAI
-modelo = OpenAI(api_key="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")
+load_dotenv() # Isso lê o arquivo .env
+minha_chave = os.getenv("OPENAI_API_KEY")
+
+# Agora use a variável minha_chave no lugar onde estava o texto da chave
 
 # Título
 st.write("### Curso Parâmetro")
