@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 
 load_dotenv() # Isso lê o arquivo .env
 minha_chave = os.getenv("OPENAI_API_KEY")
+client = OpenAI(api_key=minha_chave)
 
 # Agora use a variável minha_chave no lugar onde estava o texto da chave
 
@@ -106,7 +107,7 @@ if mensagemdouser:
     )
 
     # Chamada da IA
-    resposta = modelo.chat.completions.create(
+    resposta = client.chat.completions.create(
         model="gpt-4o",
         messages=[system_message] + st.session_state["chat_history"]
     )
