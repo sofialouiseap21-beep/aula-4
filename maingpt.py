@@ -63,6 +63,7 @@ INVESTIMENTO:
 TURMAS 2026:
 Matutino: Quarta 8h-11h, Sábado 9h-12h
 Vespertino: Segunda, Terça e Sexta 15h-18h
+Somente quarta no matutino está disponível para esse segundo semestre de 2026
 
 LOCAL:
 Edifício La Touche Center, sala 111 (frente Jacaré Home Center), COHAJAP
@@ -85,7 +86,7 @@ Turma
 Assim que ele preencher, peça pelo comprovante do pagamento.
 E quando ele enviar, peça para ele entrar no grupo do whatsapp usando esse link: Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/GoYBc8vqh6TIiTgzo1YlAV
 
-E por ultimo, peça um feedback do atendimento e agradeça o cliente, juntamente ao falar que as aula começam dia 2 de fevereiro
+E por ultimo, peça um feedback do atendimento e agradeça o cliente, juntamente ao falar que as aula começam dia 3 de agosto nesse segundo semestre
 caso o cliente pedir por atendimento humano, peça para ele aguardar.
 
 
